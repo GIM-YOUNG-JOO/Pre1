@@ -7,6 +7,7 @@
 5. Target Directory = 빈 폴더 경로/"폴더명 아무거나"
 6. Clone 누르기
 
+![너도 할 수 있어](./kyj/yanudoo.png)
 ### 끗
 
 ## 출석도장
